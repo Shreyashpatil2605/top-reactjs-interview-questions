@@ -1,0 +1,12 @@
+Why does React need to traverse the entire UI tree during each re-render?
+Some questions I had:
+- Why React over Nextjs ?
+- How does React hydration is working?
+- Explain what is React and how does it work (high level)?
+When would you use local, context, and external state management?
+
+How does the reconciliation algorithm work and how do keys affect it?
+
+How do you handle data fetching? When would you use useEffect vs something like React Query or React Server Components?
+
+What are some ways you'd implement accessibility in a codebase that doesn't have any?
